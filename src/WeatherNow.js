@@ -1,10 +1,14 @@
 import React from 'react'
-
 const WeatherNow = () => {
-  return (
-    <div>
+  //const [weather,setWeather]= useState([])
 
-    </div>
+  //we need to send request , so will use a hooks called useEffect
+  
+  
+  return (
+   <div> 
+    
+   </div>
   )
 }
 
